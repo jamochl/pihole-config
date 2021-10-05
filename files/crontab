@@ -1,0 +1,2 @@
+# Pull and Replace pihole image every week
+@weekly compose-update.sh
